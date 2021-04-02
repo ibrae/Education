@@ -5,4 +5,4 @@ in HTML tables and style it with CSS.
 - upload the Csv file from the current directory.
 - upload using the read_csv()
 - covert the Df file to html using the df.to_html()
-## Detailed procedure of this project is described in Education.ipynb file.
+## Detailed procedure for this project is described in Education.ipynb file.
